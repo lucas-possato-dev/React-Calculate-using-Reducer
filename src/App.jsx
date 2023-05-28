@@ -12,8 +12,8 @@ export const ACTIONS = {
 };
 
 const initialState = {
-  currentOperand: "",
-  previousOperand: "",
+  currentOperand: null,
+  previousOperand: null,
   operation: "",
 };
 
